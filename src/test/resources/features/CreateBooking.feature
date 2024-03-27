@@ -56,9 +56,7 @@ Feature: To create a new booking in restful-booker
     When user creates a new place using data "<dataKey>" from JSON file "<JSONFile>"
     Then user should get the response code 200
     Given user has access to endpoint "/get/json"
-#    When user makes a request to view booking IDs
     When user makes a request to view place_id
-#    When user makes a request to delete booking with basic auth "admin" & "password123"
     When user makes a request to delete place
     Then user should get the response code 200
 
