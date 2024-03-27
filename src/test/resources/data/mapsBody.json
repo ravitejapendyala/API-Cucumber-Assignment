@@ -1,0 +1,45 @@
+{
+	"createlocation1": {
+		"location": {
+			"lat": -38.383494,
+			"lng": 33.427362
+		},
+		"accuracy": 50,
+		"name": "Frontline house",
+		"phone_number": "(+91) 983 893 3937",
+		"address": "29, side layout, cohen 09",
+		"types": [
+			"shoe park",
+			"shop"
+		],
+		"website": "http://google.com",
+		"language": "French-IN"
+	},
+	"updatelocation1": {
+		"place_id": "{{place_id}}",
+		"address": "70 winter walk, USA",
+		"key": "qaclick123"
+	},
+	"updateBooking1": {
+		"firstname": "Clark",
+		"lastname": "Kent",
+		"totalprice": "12321",
+		"depositpaid": "true",
+		"bookingdates": {
+		"checkin":"2021-11-10",
+		"checkout":"2021-11-20"
+		},
+		"additionalneeds":"Super Tea"
+	},
+	"updateBooking2": {
+		"firstname": "Bruce",
+		"lastname": "Wayne",
+		"totalprice": "35007",
+		"depositpaid": "false",
+		"bookingdates": {
+		"checkin":"2021-09-10",
+		"checkout":"2021-10-20"
+		},
+		"additionalneeds":"Bat Dish"
+	}
+}
