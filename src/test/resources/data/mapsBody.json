@@ -19,27 +19,5 @@
 		"place_id": "{{place_id}}",
 		"address": "70 winter walk, USA",
 		"key": "qaclick123"
-	},
-	"updateBooking1": {
-		"firstname": "Clark",
-		"lastname": "Kent",
-		"totalprice": "12321",
-		"depositpaid": "true",
-		"bookingdates": {
-		"checkin":"2021-11-10",
-		"checkout":"2021-11-20"
-		},
-		"additionalneeds":"Super Tea"
-	},
-	"updateBooking2": {
-		"firstname": "Bruce",
-		"lastname": "Wayne",
-		"totalprice": "35007",
-		"depositpaid": "false",
-		"bookingdates": {
-		"checkin":"2021-09-10",
-		"checkout":"2021-10-20"
-		},
-		"additionalneeds":"Bat Dish"
 	}
 }
